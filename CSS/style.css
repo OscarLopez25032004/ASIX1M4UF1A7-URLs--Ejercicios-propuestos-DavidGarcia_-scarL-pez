@@ -1,0 +1,65 @@
+/* Regla 1 */
+h1 {
+    border: 1px solid black;
+    color: rgb(10, 205, 124);
+    background-color: blueviolet;
+}
+
+/* Regla 2 */
+h2 {
+    border: 1px solid black;
+    color: rgb(10, 205, 124);
+    background-color: blueviolet;
+    text-align: center;
+}
+
+/* Regla 3 */
+h3 {
+    color: rgb(10, 205, 124);
+}
+
+/* Regla 4 */
+body {
+    padding: 15%;
+    color: white;
+    font-family: "fantasy";
+    background-image: url('../Imagenes/fondo.jpg');
+}
+
+/* Regla 5 */
+ul {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+/* Regla 6 */
+.redes {
+    font-family: "fantasy";
+    color: rgb(10, 205, 124);
+}
+
+/* Regla 7 */
+.titulo {
+    text-align: center;
+    color: rgb(10, 205, 124);
+}
+
+/* Regla 8 */
+table {
+    border-collapse: collapse;
+    padding: 100%;
+}
+
+/* Regla 9 */
+th, td {
+    text-align: right;
+    padding: 8px;
+}
+
+/* Regla 10 */
+th {
+    background-color: #4CAF50;
+    color: blueviolet;
+}
+  
